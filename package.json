@@ -10,6 +10,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "@types/validator": "github:types/validator",
     "@typescript-eslint/eslint-plugin": "^5.61.0",
     "@typescript-eslint/parser": "^5.61.0",
     "eslint-config-prettier": "^8.8.0",
@@ -19,6 +20,7 @@
   },
   "dependencies": {
     "eslint": "^8.44.0",
-    "prettier": "^2.8.8"
+    "prettier": "^2.8.8",
+    "validator": "^13.11.0"
   }
 }
